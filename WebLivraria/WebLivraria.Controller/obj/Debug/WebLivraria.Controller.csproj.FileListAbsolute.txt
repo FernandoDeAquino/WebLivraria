@@ -1,0 +1,37 @@
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll.config
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll.config
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csprojAssemblyReference.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\Microsoft.Office.Interop.Excel.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\office.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\Microsoft.Vbe.Interop.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\stdole.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\Microsoft.Office.Interop.Excel.xml
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\bin\office.xml
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csproj.CopyComplete
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll.config
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csproj.CopyComplete
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.dll
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.pdb
+C:\Users\Fernando\WebLivraria\WebLivraria.Controller\obj\Debug\WebLivraria.Controller.csprojAssemblyReference.cache

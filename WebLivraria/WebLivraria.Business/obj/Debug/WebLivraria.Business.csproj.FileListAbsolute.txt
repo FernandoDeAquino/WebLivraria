@@ -1,0 +1,50 @@
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csprojAssemblyReference.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CopyComplete
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll.config
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll.config
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csprojAssemblyReference.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CopyComplete
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria_VS2017 - Cópia\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll.config
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll.config
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csprojAssemblyReference.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CopyComplete
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.pdb
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\Newtonsoft.Json.dll
+C:\Users\Fernando\Desenvolvimento\WebLivraria\WebLivraria.Business\bin\Newtonsoft.Json.xml
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll.config
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.dll
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\WebLivraria.Business.pdb
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\Newtonsoft.Json.dll
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.pdb
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\WebLivraria.Controller.dll.config
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\bin\Newtonsoft.Json.xml
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csprojAssemblyReference.cache
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.csproj.CopyComplete
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.dll
+C:\Users\Fernando\WebLivraria\WebLivraria.Business\obj\Debug\WebLivraria.Business.pdb

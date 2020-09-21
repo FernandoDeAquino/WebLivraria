@@ -1,0 +1,9 @@
+CREATE PROCEDURE [dbo].[USP_ASSUNTO_OBTER]
+	@pDESCRICAO varchar(255)
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+	SELECT CodAs,Descricao FROM[dbo].[assunto]
+	WHERE Descricao = @pDESCRICAO
+END
